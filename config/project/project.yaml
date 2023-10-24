@@ -1,0 +1,22 @@
+dateModified: 1698023500
+email:
+  fromEmail: jmayall@surething.com
+  fromName: Yellowstone
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    4f321376-103d-4232-9f54-d5b5a82720f7: Common # Common
+    5ab23baf-191a-4805-a80d-c3690559fb34: Yellowstone # Yellowstone
+    85150970-b82b-4945-bd24-282e010bdd4f: Yellowstone # Yellowstone
+system:
+  edition: solo
+  live: true
+  name: Yellowstone
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
